@@ -17,7 +17,7 @@ TagManager:
   - 
   - player
   - playerDamaged
-  - 
+  - Obstacle
   - platform
   - 
   - enemy_typeA
