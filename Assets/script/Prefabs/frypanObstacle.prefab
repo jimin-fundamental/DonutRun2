@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1500838058150673592}
   - component: {fileID: 1500838058150673594}
   - component: {fileID: 1500838058150673593}
-  m_Layer: 15
+  m_Layer: 10
   m_Name: frypanObstacle
   m_TagString: Obstacle
   m_Icon: {fileID: 0}
@@ -148,3 +148,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  force: 0
