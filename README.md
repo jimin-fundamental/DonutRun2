@@ -34,12 +34,15 @@
 
 ## 🛠️ 기술 스택
 
-- **언어 및 엔진**
-  ![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+- **언어 및 엔진**  
+  ![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
   ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-- **버전 관리**
-  ![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git&logoColor=white)
+- **개발 환경**  
+  ![VS Code](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- **버전 관리**  
+  ![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/Repository-GitHub-orange?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -55,19 +58,19 @@
 ## 🗂️ 프로젝트 구조
 
 ```bash
-├── Assets
-│   ├── Animation
-│   ├── GameSound
-│   ├── Graphic
-│   ├── Prefab
-│   ├── Scenes
-│   │   ├── Start.unity
-│   │   ├── Main.unity
-│   │   └── Ending.unity
-│   └── Script
-├── Packages
-├── ProjectSettings
-└── README.md
+├── Animation
+├── Images
+├── Scenes
+│   ├── FirstScene.unity
+│   ├── Main.unity
+│   ├── Obstacle.unity
+│   ├── StoryScene.unity
+│   └── donutrun_save.unity
+├── script
+│   ├── GameManager.cs
+│   ├── ChangeScene.cs
+├── tiles
+└── ProjectSettings
 ```
 
 ---
